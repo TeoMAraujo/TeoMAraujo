@@ -9,7 +9,7 @@ I've learned:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
           
-
+![Snake animation](https://github.com/TeoMAraujo/TeoMAraujo/blob/output/github-contribution-grid-snake.svg)
 - 📫 How to reach me: teoaraujoUFMG@gmail.com
 
 - 🔭 I’m currently working on ...
