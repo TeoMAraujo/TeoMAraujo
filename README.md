@@ -1,5 +1,4 @@
 ## Téo Mendes Araújo
----
 Hello, my name is Téo Mendes Araújo. I currently study at [UFMG](https://ufmg.br/), and my aim on my graduation is Quantum Computing
 ---
 ### About Me
