@@ -16,7 +16,7 @@ Hello, my name is Téo Mendes Araújo. I currently study at [UFMG](https://ufmg.
 ![Snake animation](https://github.com/TeoMAraujo/TeoMAraujo/blob/output/github-contribution-grid-snake.svg)
 
 - 📫 How to reach me: teoaraujoUFMG@gmail.com
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />](teoaraujoUFMG@gmail.com)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg width="40" height="40"" />](teoaraujoUFMG@gmail.com)
           
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
