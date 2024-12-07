@@ -1,10 +1,10 @@
 # README
 ## Téo Mendes Araújo 
-Hello, my name is Téo Mendes Araújo. I currently study at [UFMG](https://ufmg.br/), and my aim on my graduation is Quantum Computing
+Hello, my name is Téo Mendes Araújo. I currently study at [UFMG](https://ufmg.br/), and my aim on my graduation is a deep learn on Quantum Computing
 
 ---
 ### About Me
-- 📚 Degree: Currently Student at System Engineering at [UFMG](https://ufmg.br/) 
+- 📚 Degree: Currently Student at [System Engineering](https://geesufmg.com/) at [UFMG](https://ufmg.br/) 
 - 🎨 Hobbies: painting, drawing, playing guitar, luthiering, watching movies, reparing eletronics, running and also playing videogames
 - 🇧🇷 Languages: I'm fluent in Portuguese and English,
 
