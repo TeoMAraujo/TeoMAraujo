@@ -7,8 +7,8 @@ Hello, my name is Téo Mendes Araújo. I currently study at [UFMG](https://ufmg.
 - 📚 Degree: Currently Student at [System Engineering](https://geesufmg.com/) at [UFMG](https://ufmg.br/) 
 - 🎨 Hobbies: painting, drawing, playing guitar, luthiering, watching movies, reparing eletronics, running and also playing videogames
 - 🇧🇷 Languages: I'm fluent in Portuguese and English,
+---
 
---- 
 ### I've learned:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/>
