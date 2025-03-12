@@ -17,6 +17,6 @@ Hello, my name is Téo Mendes Araújo. I currently study at [UFMG](https://ufmg.
           
 
 ### Tools: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg"  width="30" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg"  width="30" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="30" height="35"/>
 
 - 📫 How to reach me: teoaraujoUFMG@gmail.com
