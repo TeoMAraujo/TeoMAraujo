@@ -7,7 +7,7 @@ Hello, my name is Téo Mendes Araújo. I'm currently studying at [UFMG](https://
 - Languages: I'm fluent in Portuguese and English
 - My Top Technologies:
   - C, C++ and "VHDL"
-  - NixOS, a declarative linux Distro
+  - NixOS, a declarative linux distro
 ---
 
 Some Projects that I've made throught time:
